@@ -6,17 +6,43 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 **Take a picture of your soldered panel and add it here!**
 
+>> picture taken (2)
+
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
 
+3 V to power the display itself
+
 **b. What voltage level do you need to power the display backlight?**
+
+5 V to power the display backlight
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+I wired it upside down
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+```
+lcd.setCursor(0, 0);
+lcd.print("William J Leon");
+```
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
+
+```
+void debug( long i, int r ) {
+  lcd.setCursor(0, r);
+  lcd.print(i);
+}
+
+void f_readVolts() {
+  int val = analogRead(A0);
+  lcd.clear();
+  debug(val,1);
+  delay(300);
+}
+```
 
 
 ## Part C. Using a time-based digital sensor
