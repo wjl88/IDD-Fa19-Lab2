@@ -55,11 +55,14 @@ void f_readVolts() {
 
 **a. How would you change the code to make the song play twice as fast?**
 
-
+Add a scale factor of 1/2 to note duration variable
+```
+int noteDuration = 0.5*1000 / noteDurations[thisNote];
+```
  
 **b. What song is playing?**
 
-Shave and a Haircut
+Star Wars Main Theme
 
 
 ## Part E. Make your own timer
