@@ -49,7 +49,7 @@ void f_readVolts() {
 
 **Upload a video of your working rotary encoder here.**
 
->> video recorded, deterministic
+[Video Lab](https://youtu.be/7e9zPnEqiaU)
 
 ## Part D. Make your Arduino sing!
 
@@ -66,4 +66,4 @@ Shave and a Haircut
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
-**b. Post a link to the completed lab report your class hub GitHub repo.**
+[Video Lab](https://youtu.be/7e9zPnEqiaU)
