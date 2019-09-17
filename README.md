@@ -6,7 +6,7 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 **Take a picture of your soldered panel and add it here!**
 
->> picture taken (2)
+![Soldered LCD](IMG_2926.JPG)
 
 ## Part B. Writing to the LCD
  
