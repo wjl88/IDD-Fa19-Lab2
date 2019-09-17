@@ -49,12 +49,17 @@ void f_readVolts() {
 
 **Upload a video of your working rotary encoder here.**
 
+>> video recorded, deterministic
 
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+
  
 **b. What song is playing?**
+
+Shave and a Haircut
 
 
 ## Part E. Make your own timer
