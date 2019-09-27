@@ -69,4 +69,4 @@ Star Wars Main Theme
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
-[Video Lab](https://youtu.be/7e9zPnEqiaU)
+[Video Lab](https://youtu.be/7e9zPnEqiaU) 
